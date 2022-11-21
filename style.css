@@ -4,7 +4,7 @@
     box-sizing: 0;
 }
 nav {
-    position:static;
+    position:absolute;
     top: 0px;
     left: 0px;
     right: 0px;
@@ -22,7 +22,7 @@ nav li {
 }
 
 nav a {
-    color: black;
+    color: rgba(0, 0, 0, 0);
     text-transform: uppercase;
     font-weight: bold;
     font-size: 18px;
@@ -32,7 +32,7 @@ nav a {
 
 nav a:hover {
     font-size: 18px;
-    color: rgb(149, 0, 67);
+    color: blue;
     padding: 0 0 0 0;
 }
 td a {
