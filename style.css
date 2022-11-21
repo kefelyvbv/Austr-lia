@@ -67,6 +67,14 @@ body {
     margin: 20px 0px 0px 0px;
 }
 
+.topo {
+    color: rgb(0, 0, 0);
+    text-align: right;
+    font-weight: bolder;
+    font-size: 1em;
+    position:static;
+}
+
 header { 
     position:static;
 }
