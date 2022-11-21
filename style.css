@@ -4,12 +4,12 @@
     box-sizing: 0;
 }
 nav {
-    position:fixed;
+    position:static;
     top: 0px;
     left: 0px;
     right: 0px;
     float: right;
-    background-image:url("imagens/fundo9.webp");
+    background-color: black;
     padding: 0px 5px 0px 0px;
 }
 nav li {
