@@ -22,7 +22,7 @@ nav li {
 }
 
 nav a {
-    color: rgba(0, 0, 0, 0);
+    color: blue;
     text-transform: uppercase;
     font-weight: bold;
     font-size: 18px;
@@ -32,19 +32,7 @@ nav a {
 
 nav a:hover {
     font-size: 18px;
-    color: blue;
-    padding: 0 0 0 0;
-}
-td a {
-    color: black;
-    font-size: 1.05em;
-    text-decoration: underline;
-    padding: 0 0 0 0;
-}
-
-td a:hover {
-    font-size: 1.05em;
-    color: rgb(149, 0, 67);
+    color: red;
     padding: 0 0 0 0;
 }
 
@@ -54,7 +42,7 @@ body {
     line-height: 2em;
     text-align: center;
     font-family: sans-serif;    
-    background-image:url("FUNDO03.png");
+    background-image:url("10.png");
     background-size: cover;
     background-repeat:no-repeat;
     background-attachment:fixed;    
@@ -80,7 +68,7 @@ header {
 }
 
 .titulo {
-    color: rgb(0, 5, 150);
+    color: red;
     text-align: center;
     padding: 10px 0px 30px 0px;
 }
@@ -98,10 +86,10 @@ h2 {
 }
 
 .titulo2 {
-    color: black;
+    color: red;
     text-align: center;
     padding: 10px 0px 30px 0px;
-    border: 1px dotted rgb(120, 3, 56);
+    border: 1px dotted white;
     font-weight: bolder;
 }
 
@@ -110,7 +98,7 @@ div {
 }
 
 h3 {
-    color:  rgb(149, 0, 67);
+    color:  red;
     margin-left: 10px;
     margin-right: 10px;
     text-align: justify;
@@ -119,7 +107,7 @@ h3 {
 }
 
 p {
-    color:  black;
+    color:  white;
     margin-left: 10px;
     text-align: justify;
     margin-right: 10px;
@@ -130,7 +118,7 @@ p {
 }
 
 li {
-    color:  black;
+    color:  white;
     margin-left: 10px;
     margin-right: 20px;
     text-align: justify;
@@ -140,41 +128,12 @@ li {
 }
 
 .itens {
-	color:  black;
+	color:  white;
 	text-decoration: underline;
 }
 
 .tabela {
     align: center;
-}
-
-table {
-    color:  black;
-    margin: 0 20px 0 20px;
-    border-color: rgb(149, 0, 67) solid 2px;
-    font-size: 1.05em;
-    align: center;
-    vertical-align: middle;
-}
-
-th {
-    color:  black;   
-    text-transform: uppercase;
-    font-weight: bold;
-    margin-left: 40px;
-    text-align: center;
-    vertical-align: middle;
-    font-size: 1.1em;
-    border: 2px solid rgb(149, 0, 67);
-    padding: 10px;
-}
-td {
-    color:  black;
-    text-align: center;
-    vertical-align: middle;
-    font-size: 1.1em;
-    border: 2px solid rgb(149, 0, 67);
-    padding: 10px;
 }
 
 .turma {
