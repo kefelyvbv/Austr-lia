@@ -42,7 +42,7 @@ body {
     line-height: 2em;
     text-align: center;
     font-family: sans-serif;    
-    background-image:url("14.png");
+    background-color: white;
     background-size: cover;
     background-repeat:no-repeat;
     background-attachment:fixed;    
@@ -68,7 +68,7 @@ header {
 }
 
 .titulo {
-    color: red;
+    color:blue;
     text-align: center;
     padding: 10px 0px 30px 0px;
 }
@@ -107,7 +107,7 @@ h3 {
 }
 
 p {
-    color:  white;
+    color:  black;
     margin-left: 10px;
     text-align: justify;
     margin-right: 10px;
@@ -118,7 +118,7 @@ p {
 }
 
 li {
-    color:  white;
+    color:  black;
     margin-left: 10px;
     margin-right: 20px;
     text-align: justify;
@@ -128,7 +128,7 @@ li {
 }
 
 .itens {
-	color:  white;
+	color:  black;
 	text-decoration: underline;
 }
 
